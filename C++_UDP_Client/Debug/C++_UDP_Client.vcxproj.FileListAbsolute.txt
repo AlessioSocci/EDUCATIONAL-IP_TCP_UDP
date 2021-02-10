@@ -1,0 +1,2 @@
+C:\Users\A\Documents\Progetti C++\Visual Studio 2019\C++_UDP_Client\Debug\C++_UDP_Client.exe
+C:\Users\A\Documents\Progetti C++\Visual Studio 2019\C++_UDP_Client\Debug\C++_UDP_Client.pdb

@@ -1,0 +1,2 @@
+C:\Users\A\Documents\Progetti C++\Visual Studio 2019\C++_TCP_Server\Debug\C++_TCP_Server.exe
+C:\Users\A\Documents\Progetti C++\Visual Studio 2019\C++_TCP_Server\Debug\C++_TCP_Server.pdb
