@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\A\Documents\Progetti C++\Visual Studio 2019\C++_TCP_MultiThread_Server\main.cpp(14,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\A\Documents\Progetti C++\Visual Studio 2019\C++_TCP_MultiThread_Server\main.cpp(117,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\A\Documents\Progetti C++\Visual Studio 2019\C++_TCP_MultiThread_Server\main.cpp(150,23): warning C4018: '<': signed/unsigned mismatch
+  LINK : C:\Users\A\Documents\Progetti C++\Visual Studio 2019\C++_TCP_MultiThread_Server\Debug\C++_TCP_MultiThread_Server.exe not found or not built by the last incremental link; performing full link
+  C++_TCP_MultiThread_Server.vcxproj -> C:\Users\A\Documents\Progetti C++\Visual Studio 2019\C++_TCP_MultiThread_Server\Debug\C++_TCP_MultiThread_Server.exe
